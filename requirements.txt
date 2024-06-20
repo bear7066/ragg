@@ -1,0 +1,6 @@
+llama-index-readers-file 
+pymupdf
+llama-index-llms-openai
+llama-index-llms-openai
+llama-index
+llama-index.embeddings.huggingface
